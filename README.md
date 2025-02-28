@@ -68,7 +68,10 @@
     <img alt="ETL" src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?style=for-the-badge&logo=etl-logo&logoColor=white">
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-  <img alt="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white">
+    <img alt="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white">
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black">
   </a>
 </p>
 
